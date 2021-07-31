@@ -1,0 +1,2 @@
+C:\xampp\htdocs\CarRent
+c:\php\php.exe artisan reserved:cars 1>> NUL 2>&1
